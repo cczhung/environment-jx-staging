@@ -8,5 +8,5 @@ dependencies:
   repository: http://chartmuseum.jenkins-x.io
   version: 2.3.82
 - name: spring-jx-demo
-  repository: http://chartmuseum.jx.jenkinx.cf.vk.vu/
+  repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.13
